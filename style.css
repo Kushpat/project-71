@@ -1,0 +1,27 @@
+damovingtext{
+    color: aqua;
+}
+row:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.travel_mainDiv{
+    width: 33.33%;
+    float: left;
+    padding: 5px;
+    border: 1px solid;
+    border-color: white;
+}
+.moviediv{
+    font-size: 20px;
+    display: inline-block;
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 6px 20px;
+
+.nav navbar-nav{
+    position: fixed;
+}
+
